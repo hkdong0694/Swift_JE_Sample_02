@@ -13,6 +13,8 @@
 		329C45FD279A45D000719F61 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 329C45FB279A45D000719F61 /* Main.storyboard */; };
 		329C45FF279A45D300719F61 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 329C45FE279A45D300719F61 /* Assets.xcassets */; };
 		329C4602279A45D300719F61 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 329C4600279A45D300719F61 /* LaunchScreen.storyboard */; };
+		329C460B279A463900719F61 /* MapAlertViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 329C460A279A463900719F61 /* MapAlertViewController.swift */; };
+		329C460D279A4A5600719F61 /* MapKitViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 329C460C279A4A5600719F61 /* MapKitViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		329C45FE279A45D300719F61 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		329C4601279A45D300719F61 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		329C4603279A45D300719F61 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		329C460A279A463900719F61 /* MapAlertViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapAlertViewController.swift; sourceTree = "<group>"; };
+		329C460C279A4A5600719F61 /* MapKitViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapKitViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +60,7 @@
 		329C45F4279A45D000719F61 /* Chapter03_AlertMap */ = {
 			isa = PBXGroup;
 			children = (
+				329C4609279A462600719F61 /* Controller */,
 				329C45F5279A45D000719F61 /* AppDelegate.swift */,
 				329C45F7279A45D000719F61 /* SceneDelegate.swift */,
 				329C45F9279A45D000719F61 /* ViewController.swift */,
@@ -65,6 +70,15 @@
 				329C4603279A45D300719F61 /* Info.plist */,
 			);
 			path = Chapter03_AlertMap;
+			sourceTree = "<group>";
+		};
+		329C4609279A462600719F61 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				329C460A279A463900719F61 /* MapAlertViewController.swift */,
+				329C460C279A4A5600719F61 /* MapKitViewController.swift */,
+			);
+			path = Controller;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,6 +151,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				329C460B279A463900719F61 /* MapAlertViewController.swift in Sources */,
+				329C460D279A4A5600719F61 /* MapKitViewController.swift in Sources */,
 				329C45FA279A45D000719F61 /* ViewController.swift in Sources */,
 				329C45F6279A45D000719F61 /* AppDelegate.swift in Sources */,
 				329C45F8279A45D000719F61 /* SceneDelegate.swift in Sources */,
