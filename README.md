@@ -13,4 +13,6 @@
 - [Chapter03_NavigationBar](https://github.com/hkdong0694/Swift_JE_Sample_02/tree/master/Chapter03_NavigationBar/Chapter03_NavigationBar) : NavigationBar 커스터마이징 Sample Project
 - [Chapter03_AlertBasic](https://github.com/hkdong0694/Swift_JE_Sample_02/tree/master/Chapter03_AlertBasic/Chapter03_AlertBasic) : Alert_Basic 커스터마이징 Sample Project
 - [Chapter03_AlertMap](https://github.com/hkdong0694/Swift_JE_Sample_02/tree/master/Chapter03_AlertMap/Chapter03_AlertMap) : Alert 지도를 포함한 Sample Project
+- [Chapter03_AlertType](https://github.com/hkdong0694/Swift_JE_Sample_02/tree/master/Chapter03_AlertImage/Chapter03_AlertImage) : Image, Slider, List 를 활용한 Alert Sample Project
+
 
