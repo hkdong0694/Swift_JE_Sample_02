@@ -11,4 +11,5 @@
 ## Chapter 03 - UI 커스터마이징(2)
 - [Chapter03_TabBar](https://github.com/hkdong0694/Swift_JE_Sample_02/tree/master/Chapter03_TabBar/Chapter03_TabBar) : TabBar 커스터마이징 Sample Project
 - [Chapter03_NavigationBar](https://github.com/hkdong0694/Swift_JE_Sample_02/tree/master/Chapter03_NavigationBar/Chapter03_NavigationBar) : NavigationBar 커스터마이징 Sample Project
+- [Chapter03_AlertBasic](https://github.com/hkdong0694/Swift_JE_Sample_02/tree/master/Chapter03_AlertBasic/Chapter03_AlertBasic) : Alert_Basic 커스터마이징 Sample Project
 
